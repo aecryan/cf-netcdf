@@ -33,3 +33,7 @@ On Windows:
 ## Install dependencies from requirements.txt
 
 `pip install -r requirements.txt`
+
+## Create netCDF file
+
+`python demo-nc.py`
